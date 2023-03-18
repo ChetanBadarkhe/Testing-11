@@ -1,0 +1,65 @@
+INFO	2023-01-19 10:51:52,003	0	com.cjc.Demoblaze.pages.Register	[main]	Registration successfull
+INFO	2023-01-19 10:51:56,098	4095	com.cjc.Demoblaze.pages.Login	[main]	chetan1611
+INFO	2023-01-19 10:51:56,098	4095	com.cjc.Demoblaze.pages.Login	[main]	pass@123
+INFO	2023-01-19 10:51:56,098	4095	com.cjc.Demoblaze.pages.Login	[main]	login successfull
+ERROR	2023-01-19 10:52:05,222	13219	com.cjc.Demoblaze.pages.Addtocart	[main]	ERROR
+WARN	2023-01-19 10:52:05,223	13220	com.cjc.Demoblaze.pages.Addtocart	[main]	Warning
+INFO	2023-01-19 10:52:05,223	13220	com.cjc.Demoblaze.pages.Addtocart	[main]	purchase item added successfully
+INFO	2023-01-19 10:52:20,852	28849	com.cjc.Demoblaze.pages.Orderplace	[main]	Screenshot taken successfull
+INFO	2023-01-19 10:52:22,892	30889	com.cjc.Demoblaze.pages.Orderplace	[main]	Thank you for your purchase!
+INFO	2023-01-19 10:52:27,960	35957	com.cjc.Demoblaze.pages.Orderplace	[main]	Id: 9185362
+Amount: 790 USD
+Card Number: 12345678912345
+Name: Chetan
+Date: 19/0/2023
+INFO	2023-01-19 10:57:03,411	0	com.cjc.Demoblaze.pages.Register	[main]	Registration successfull
+ERROR	2023-01-19 10:57:14,096	10685	com.cjc.Demoblaze.pages.Addtocart	[main]	ERROR
+WARN	2023-01-19 10:57:14,096	10685	com.cjc.Demoblaze.pages.Addtocart	[main]	Warning
+INFO	2023-01-19 10:57:14,096	10685	com.cjc.Demoblaze.pages.Addtocart	[main]	purchase item added successfully
+INFO	2023-01-19 10:57:28,419	25008	com.cjc.Demoblaze.pages.Orderplace	[main]	Screenshot taken successfull
+INFO	2023-01-19 10:57:30,457	27046	com.cjc.Demoblaze.pages.Orderplace	[main]	Thank you for your purchase!
+INFO	2023-01-19 10:57:35,500	32089	com.cjc.Demoblaze.pages.Orderplace	[main]	Id: 6471685
+Amount: 790 USD
+Card Number: 12345678912345
+Name: Chetan
+Date: 19/0/2023
+INFO	2023-01-19 11:02:44,518	0	com.cjc.Demoblaze.pages.Register	[main]	Registration successfull
+ERROR	2023-01-19 11:02:54,649	10131	com.cjc.Demoblaze.pages.Addtocart	[main]	ERROR
+WARN	2023-01-19 11:02:54,649	10131	com.cjc.Demoblaze.pages.Addtocart	[main]	Warning
+INFO	2023-01-19 11:02:54,650	10132	com.cjc.Demoblaze.pages.Addtocart	[main]	purchase item added successfully
+INFO	2023-01-19 11:03:09,548	25030	com.cjc.Demoblaze.pages.Orderplace	[main]	Screenshot taken successfull
+INFO	2023-01-19 11:03:11,596	27078	com.cjc.Demoblaze.pages.Orderplace	[main]	Thank you for your purchase!
+INFO	2023-01-19 11:03:16,648	32130	com.cjc.Demoblaze.pages.Orderplace	[main]	Id: 6538070
+Amount: 790 USD
+Card Number: 12345678912345
+Name: Chetan
+Date: 19/0/2023
+INFO	2023-01-19 11:07:11,168	0	com.cjc.Demoblaze.pages.Register	[main]	Registration successfull
+INFO	2023-01-19 11:07:14,240	3072	com.cjc.Demoblaze.pages.Login	[main]	chetan1611
+INFO	2023-01-19 11:07:14,240	3072	com.cjc.Demoblaze.pages.Login	[main]	pass@123
+INFO	2023-01-19 11:07:14,240	3072	com.cjc.Demoblaze.pages.Login	[main]	login successfull
+ERROR	2023-01-19 11:07:23,634	12466	com.cjc.Demoblaze.pages.Addtocart	[main]	ERROR
+WARN	2023-01-19 11:07:23,634	12466	com.cjc.Demoblaze.pages.Addtocart	[main]	Warning
+INFO	2023-01-19 11:07:23,634	12466	com.cjc.Demoblaze.pages.Addtocart	[main]	purchase item added successfully
+INFO	2023-01-19 11:07:38,392	27224	com.cjc.Demoblaze.pages.Orderplace	[main]	Screenshot taken successfull
+INFO	2023-01-19 11:07:40,434	29266	com.cjc.Demoblaze.pages.Orderplace	[main]	Thank you for your purchase!
+INFO	2023-01-19 11:07:45,470	34302	com.cjc.Demoblaze.pages.Orderplace	[main]	Id: 8564793
+Amount: 1580 USD
+Card Number: 12345678912345
+Name: Chetan
+Date: 19/0/2023
+INFO	2023-01-19 11:09:18,986	1	com.cjc.Demoblaze.pages.Register	[main]	Registration successfull
+INFO	2023-01-19 15:28:29,769	0	com.cjc.Demoblaze.pages.Register	[main]	Registration successfull
+INFO	2023-01-19 15:28:32,941	3172	com.cjc.Demoblaze.pages.Login	[main]	chetan1611
+INFO	2023-01-19 15:28:32,941	3172	com.cjc.Demoblaze.pages.Login	[main]	pass@123
+INFO	2023-01-19 15:28:32,941	3172	com.cjc.Demoblaze.pages.Login	[main]	login successfull
+ERROR	2023-01-19 15:28:44,042	14273	com.cjc.Demoblaze.pages.Addtocart	[main]	ERROR
+WARN	2023-01-19 15:28:44,043	14274	com.cjc.Demoblaze.pages.Addtocart	[main]	Warning
+INFO	2023-01-19 15:28:44,043	14274	com.cjc.Demoblaze.pages.Addtocart	[main]	purchase item added successfully
+INFO	2023-01-19 15:28:58,983	29214	com.cjc.Demoblaze.pages.Orderplace	[main]	Screenshot taken successfull
+INFO	2023-01-19 15:29:01,061	31292	com.cjc.Demoblaze.pages.Orderplace	[main]	Thank you for your purchase!
+INFO	2023-01-19 15:29:06,129	36360	com.cjc.Demoblaze.pages.Orderplace	[main]	Id: 6975329
+Amount: 790 USD
+Card Number: 12345678912345
+Name: Chetan
+Date: 19/0/2023
